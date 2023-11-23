@@ -1,11 +1,11 @@
 {
-   "name":"Forum Tokko Blogger",
-   "short_name":"Forum Tokko Lite",
-   "start_url":"https://forums-tokko.blogspot.com",
+   "name":"Equal Secrets App",
+   "short_name":"Equal Secrets",
+   "start_url":"https://www.equalsecrets-yaoi.my.id/",
    "display":"standalone",
    "background_color":"#ffffff",
    "theme_color":"#ffffff",
-   "description":"Forums Tokko, adalah Forum yang dikhususkan untuk Tokko Blogger",
+   "description":"Selamat Datang di Equal Secrets, Komunitas Translator dan Fan Translation yang berkomitmen untuk menyediakan terjemahan Bahasa Indonesia berkualitas tinggi sesuai dengan permintaan Anda. Semua postingan yang ada di website ini merupakan hasil request dari member premium, kami hanya menerjemahkannya dan memberikan wadah bagi member premium untuk membacanya disini. Equal Secrets hadir untuk memenuhi kebutuhan Anda dalam mendapatkan akses ke berbagai konten terjemahan Bahasa Indonesia yang Anda inginkan. Terima kasih telah berkunjung di Equal Secrets, selamat membaca dan menikmati semua konten yang tersedia!",
    "icons":[
       {
          "src":"https://twinnybloggers.github.io/pwa.twinnyblogger/logo2_19_202236.png",
